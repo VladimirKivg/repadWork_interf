@@ -1,6 +1,6 @@
 package repadWork_interf;
 
-public class Mi82 extends Helicopter2{
+public class Mi82 extends Helicopter2 {
     @Override
     public void fly() {
         System.out.println("Вертолет Mi8");
