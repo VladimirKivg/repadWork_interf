@@ -1,6 +1,6 @@
 package weapon;
 
-public  class Rifle extends Weapon{
+public class Rifle extends Weapon {
 
     @Override
     public void weapon() {
